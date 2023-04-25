@@ -1,0 +1,3 @@
+[submodule "ocurl"]
+	path = ocurl
+	url = https://github.com/ThisDevDane/ocurl
